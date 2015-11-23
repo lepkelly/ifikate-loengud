@@ -10,13 +10,20 @@
 ### Nõuded
 
 1. **README.md sisaldab:**
-    * suurelt projekti nime;
-    * rühma liikmete nimed;
-    * eesmärki (3-4 lauset, mis probleemi üritate lahendada);
-    * kirjeldus (sihtrühm, eripära võrreldes teiste samalaadsete rakendustega - kirjeldada vähemalt 2-3 sarnast rakendust mida eeskujuks võtta);
+    * suurelt projekti nime;  Ifikate loengud
+    * rühma liikmete nimed;   Kelly Leppik
+    * eesmärki (3-4 lauset, mis probleemi üritate lahendada);  Tahaks luua sellise lehe, kus kasutajad saavad iga päev iga loengu järel postitada mõne pildi või lause, mis mõtted või muljed tal loengus/loengust jäi või kuidas ta ennast pärast loengut tunneb. Leht oleks siis mõeldud 2015 ifikatele.
+    * kirjeldus (sihtrühm, eripära võrreldes teiste samalaadsete rakendustega - kirjeldada vähemalt 2-3 sarnast rakendust mida eeskujuks võtta); twitter ?, 
     * funktsionaalsuse loetelu prioriteedi järjekorras, nt
         * v0.1 Saab teha kasutaja ja sisselogida
-        * v0.2 Saab lisada huviala
+        * v1.1 Teksti või piltide postitamine
+        * v1.2 Enda postituste nägemine
+        * v1.3 Enda postituste muutmine/kustutamine
+        * v2.1 Märksõnade lisamine
+        * v2.2 Otsing kasutajate, postitusesisu, märksõnade järgi
+        * v3.1 Like nupu lisamine
+        * 3.2 Kommentaari lisamine
+        * 4.1 Vaatamised: Kes mida vaatas
         * ...
     * andmebaasi skeem loetava pildina + tabelite loomise SQL laused;
     * **kokkuvõte:** mida õppisid juurde? mis ebaõnnestus? mis oli keeruline? (kirjutab iga tiimi liige).
