@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>12 nädala vinge leht</title>
 	<style type="text/css">
-		@import "kujundus.css";
+		@import "";
 	</style>
 	
     <!-- Bootstrap -->
@@ -24,3 +24,4 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
+  	<body>
